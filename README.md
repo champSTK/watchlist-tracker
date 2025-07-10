@@ -19,7 +19,7 @@ A simple desktop GUI app to manage your personal watchlist of Movies, Anime, TV 
 ### 1. Clone the repository
 
 write in your terminal:
-git clone https://github.com/yourusername/watchlist-tracker.git
+git clone https://github.com/champSTK/watchlist-tracker.git
 cd watchlist-tracker
 
 ### 2. Install Required Packages
